@@ -1,0 +1,15 @@
+Ziel
+------
+*Stadtgebiete in Minecraft markieren
+*Währung/Geld
+*Einwohner: die Dorfbewohner spawnen automatisch wenn viel Geld da ist, verschwinden wenn wenig nahrung vorhanden ist
+*Güter die in einheiten gemessen werden: wenn innerhalb des Stadtgebiets ein Produckt erstellt wird/abgebaut wird v
+	verschwindet es und der counter wird hochgezählt. Alle Baumaterialien müssen aus truhen genommen werden
+*nahrung verschwindet proportional zu zeiteinheit und dorfbewohner
+*Grafische oberfläche die äänderungen anzeigt.
+
+Sprache
+-------
+Java 
+Minecraft-API
+
